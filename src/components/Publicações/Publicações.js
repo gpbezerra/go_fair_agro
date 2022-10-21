@@ -5,7 +5,7 @@ import post1 from "../../images/post1.png";
 
 export const Publicações = () => {
     return (
-        <div className="postContainer">
+        <div id="publicações" className="postContainer">
                 <div className="textTitle">
                     <h1>Publicações</h1>
                 </div>

@@ -7,19 +7,19 @@ export const Menu = () => {
         <div className="menu">
 
             <div className="menuLogo">
-                <a href="/Home">
+                <a href="/">
                     <img src={logo} alt="" srcset="" />
                 </a>
             </div>
 
             <div className="linkGroup">
-                <a  href="#posts">
+                <a  href="#publicações">
                     Publicações
                 </a>
-                <a  href="#cicle">
+                <a  href="#cicloDeOficinas">
                     Ciclo de Oficinas
                 </a>
-                <a href="#contact">
+                <a href="#Contato">
                     Contato
                 </a>
             </div>

@@ -2,7 +2,6 @@ import React from "react";
 import  "./text.css";
 import pdf from "../../images/manifesto.pdf";
 import logo from "../../images/goFairAgro.png"
-import download from "../../images/downloadIcon.svg"
 
 export const Text = () => {
     return (
