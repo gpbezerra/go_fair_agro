@@ -13,6 +13,7 @@
     display: flex;
     width: 10%;
     float: left;
+    margin-left: 2%;
 }
 
 .menuLogo img{

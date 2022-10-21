@@ -6,6 +6,7 @@ import { Video } from "./components/Video/Video";
 import { Missão } from "./components/Missão/Missão";
 import { Rede } from "./components/Rede/Rede";
 import { Publicações } from "./components/Publicações/Publicações";
+import { Coordenação } from "./components/Coordenação/Coodernação";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Missão/>
       <Publicações/>
       <Rede/> 
+      <Coordenação/>
     </>
   );
 }

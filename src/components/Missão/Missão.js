@@ -3,8 +3,7 @@ import React from "react";
 export const Missão = () => {
     return (
         <div className="textContainer">
-
-            <div className="textGoFair">
+            <div className="textManifesto">
                 <div className="textTitle">
                     <h1>Missão</h1>
                 </div>
