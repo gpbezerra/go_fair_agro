@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/go_fair_agro/static/css/main.01e99372.css",
-    "main.js": "/go_fair_agro/static/js/main.9491d9d7.js",
+    "main.css": "/go_fair_agro/static/css/main.b092ab17.css",
+    "main.js": "/go_fair_agro/static/js/main.90cc8908.js",
     "static/media/goFairAgroHeader.jpg": "/go_fair_agro/static/media/goFairAgroHeader.534345b6648293d77c1d.jpg",
     "static/media/logoUnipampa.jpg": "/go_fair_agro/static/media/logoUnipampa.cf0a8b184effda343b11.jpg",
     "static/media/logoUfrrj.png": "/go_fair_agro/static/media/logoUfrrj.a3faf1a536b116f17ef2.png",
@@ -10,14 +10,14 @@
     "static/media/logoEmbrepa.png": "/go_fair_agro/static/media/logoEmbrepa.f3ae1e723cd5d5a6e7ca.png",
     "static/media/logoUsp.png": "/go_fair_agro/static/media/logoUsp.4c40323e5f7b14b0281b.png",
     "static/media/manifesto.pdf": "/go_fair_agro/static/media/manifesto.09edc7a0f111d7c85a7b.pdf",
+    "static/media/logo.png": "/go_fair_agro/static/media/logo.73cb2f01b7c2129d5dc2.png",
     "static/media/goFairAgro.png": "/go_fair_agro/static/media/goFairAgro.80a700c04a81408c8265.png",
     "index.html": "/go_fair_agro/index.html",
-    "static/media/downloadIcon.svg": "/go_fair_agro/static/media/downloadIcon.293c0d5e07261c1ec5a1aefbeba867a9.svg",
-    "main.01e99372.css.map": "/go_fair_agro/static/css/main.01e99372.css.map",
-    "main.9491d9d7.js.map": "/go_fair_agro/static/js/main.9491d9d7.js.map"
+    "main.b092ab17.css.map": "/go_fair_agro/static/css/main.b092ab17.css.map",
+    "main.90cc8908.js.map": "/go_fair_agro/static/js/main.90cc8908.js.map"
   },
   "entrypoints": [
-    "static/css/main.01e99372.css",
-    "static/js/main.9491d9d7.js"
+    "static/css/main.b092ab17.css",
+    "static/js/main.90cc8908.js"
   ]
 }
