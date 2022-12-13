@@ -1,6 +1,6 @@
 import React from "react";
 import "./publicações.css";
-import logo from "../../images/goFairAgro.png"
+import logo from "../../images/go-fair-brasil-agro-logo.svg"
 import post1 from "../../images/post1.png";
 
 export const Publicações = () => {

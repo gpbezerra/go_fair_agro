@@ -1,6 +1,6 @@
 import React from "react";
 import  "./Menu.css";
-import logo from "../../images/goFairAgro.png"
+import logo from "../../images/go-fair-brasil-agro-logo.svg"
 
 export const Menu = () => {
     return (
