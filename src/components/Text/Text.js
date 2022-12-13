@@ -1,7 +1,7 @@
 import React from "react";
 import  "./text.css";
 import pdf from "../../images/manifesto.pdf";
-import logo from "../../images/goFairAgro.png"
+import logo from "../../images/go-fair-brasil-agro-logo.svg"
 
 export const Text = () => {
     return (

@@ -12,9 +12,10 @@ export const Ciclo = () => {
             </div>
             <div className="cicloOficinas">
                     <h3>Link das Oficinas</h3>
-                    <a href="https://www.youtube.com/watch?v=OyNUByzgP4A">Infra-estrutura de Repositórios com Fátima Nunes Marques, Professora titular da Universidade de São Paulo.</a>
-                    <a href="https://www.youtube.com/watch?v=QmvO9zk-vPs">Padrões de Dados e Metadados. Tipologia de Dados com Dr. João Luiz Moreira, Professor Assistente da Services and Cyber-Security (SCS).</a>
-                    <a href="https://www.youtube.com/watch?v=B_NbXSJWxgc">Palestra Ontologia, ontologias e o “I” de FAIR com Giancarlo Guizzardi, Full Professor da Universidade de Twente.</a>
+                    <a href="https://www.youtube.com/watch?v=_IJZHuJqTSM">12/04/2022 - Lançamento da Rede Temática GO FAIR Agro Brasil e 1ª Oficina de Trabalho</a>
+                    <a href="https://www.youtube.com/watch?v=OyNUByzgP4A">19/08/2022 - Infra-estrutura de Repositórios com Fátima Nunes Marques, Professora titular da Universidade de São Paulo.</a>
+                    <a href="https://www.youtube.com/watch?v=QmvO9zk-vPs">31/08/2022 - Padrões de Dados e Metadados. Tipologia de Dados com Dr. João Luiz Moreira, Professor Assistente da Services and Cyber-Security (SCS).</a>
+                    <a href="https://www.youtube.com/watch?v=B_NbXSJWxgc">14/09/2022 - Palestra Ontologia, ontologias e o “I” de FAIR com Giancarlo Guizzardi, Full Professor da Universidade de Twente.</a>
                 </div>
         </div>
     )

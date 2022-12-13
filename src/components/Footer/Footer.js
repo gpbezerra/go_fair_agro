@@ -8,8 +8,12 @@ import link from "../../images/linkedin.png";
 export const Footer = () => {
     return (
         <div className="footerContainer">
-            <img style={{width: "20%"}} src={logo} alt="logo" />
-            <p>Criado por PET-SI</p>
+            <div style={{display: "flex"}}>    
+                <a style={{width: "100%"}} href="https://www.go-fair.org">
+                    <img style={{width: "40%"}} src={logo} alt="logo" />
+                </a>
+            </div>
+            <a href="https://r1.ufrrj.br/petsi/" style={{color: "white", textDecoration: "none"}} >Criado por PET-SI/UFRRJ</a>
             <div className="footerSocialMedia">
                 <a href="https://www.facebook.com/PetSIUFRRJ"><img src={face} alt="" /></a>
                 <a href="https://www.instagram.com/petsiufrrj/?hl=en"><img src={insta} alt="" /></a>

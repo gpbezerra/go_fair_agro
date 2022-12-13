@@ -16,6 +16,9 @@ export const Menu = () => {
                 <a  href="#publicações">
                     Publicações
                 </a>
+                <a  href="#publicações">
+                    Participantes
+                </a>
                 <a  href="#cicloDeOficinas">
                     Ciclo de Oficinas
                 </a>
